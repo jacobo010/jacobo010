@@ -41,7 +41,6 @@ Análisis exploratorio sobre datos de pilotos y escuderías en la F1.
 ✔ Limpieza y transformación de datos  
 ✔ Visualización de tendencias  
 ✔ Conclusiones sobre la influencia del equipo  
-🔎 Ideal para fans del motor y la estadística
 
 ---
 
