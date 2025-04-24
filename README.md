@@ -23,7 +23,7 @@ Bienvenido a mi perfil de GitHub. Actualmente finalizando un bootcamp de **Data 
 
 ---
 
-## 🛠️ Tecnologías que manejo
+## 🛠️ Tecnologías
 
 | Lenguajes | Herramientas       | Visualización           | Machine / Deep Learning     |
 |----------|--------------------|--------------------------|-----------------------------|
